@@ -1,3 +1,9 @@
-This method helped me lerning the Piano notes.
-You can download it and Enjoy :)
-I created also for Mobile, but didnt try it yet.
+# Music Note Flash Card
+
+A simple flash card app to practice note recognition.
+
+https://raw.githubusercontent.com/hamidtasvir/Music-Note-Flash-Card/main/pix/Piano%20music%20notes%20app.jpg
+
+How to run:
+1. Open index.html in a browser (or use a local static server).
+2. Files are organized in pix/ (images) and notes/ (audio).
