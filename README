@@ -1,9 +1,0 @@
-# Music Note Flash Card
-
-A simple flash card app to practice note recognition.
-
-How to run:
-1. Open index.html in a browser (or use a local static server).
-2. Files are organized in pix/ (images) and notes/ (audio).
-
-![Piano app](pix/PianoMusicNotesApp.jpg)
