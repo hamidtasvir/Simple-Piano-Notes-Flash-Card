@@ -7,7 +7,4 @@ A simple flash card app to practice note recognition.
 </p>
 
 How to run:
-1. Open `index.html` in a browser (or use a local static server like `npx http-server` or `python -m http.server`).
-2. Files are organized in `pix/` (images) and `notes/` (audio).
-
-Dwonload it on you phone or pc and Enjog ;)
+Just open `index.html` in a browser (Phone or PC) then Enjoy ;)
