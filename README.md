@@ -1,4 +1,4 @@
-# Music Note Flash Card
+# Piano Note Flash Card
 
 A simple flash card app to practice note recognition.
 
